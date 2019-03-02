@@ -7,5 +7,3 @@ functions:
     lang: go
     handler: ./go-func
     image: viveksyngh/go-func:latest
-    secrets:
-      - pull-secret
