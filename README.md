@@ -1,3 +1,3 @@
 ## Private OpenFaaS Functions
 
-## Test
+##### Private OpenFaaS functions for testing 
